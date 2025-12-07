@@ -1,2 +1,2 @@
 # AdventureGame
-Adventure Game for JS class
+My text adventure game from JavaScript Starter Kit
